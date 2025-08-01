@@ -11,6 +11,7 @@ import TestimonialsSection from '../components/TestimonialsSection';
 import CraftsmanshipSection from '../components/CraftsmanshipSection';
 import ExperienceSection from '../components/ExperienceSection';
 import Footer from '../components/Footer';
+import { Analytics } from "@vercel/analytics/next"
 
 export default function Home() {
   return (
