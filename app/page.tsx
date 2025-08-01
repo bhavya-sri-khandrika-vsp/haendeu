@@ -27,6 +27,7 @@ export default function Home() {
       <CraftsmanshipSection />
       <ExperienceSection />
       <Footer />
+      <Analytics/>
     </div>
   );
 }
